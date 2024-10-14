@@ -1,0 +1,6 @@
+[submodule "git-learning-backend"]
+	path = git-learning-backend
+	url = https://github.com/mohsin-rashid-64/git-learning-backend.git
+[submodule "git-learning-frontend"]
+	path = git-learning-frontend
+	url = https://github.com/mohsin-rashid-64/git-learning-frontend.git
